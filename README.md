@@ -1,4 +1,4 @@
-# project_2
+# project-2
 
 ## A portfolio project TBD.
 
